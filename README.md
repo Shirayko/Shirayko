@@ -1,4 +1,5 @@
-## Hi there 👋
+# 👋 Hello! Welcome to my Github profile.
+## My name is Gustavo Lomba and my nickname is "Shirayko"!
 
 
 <div>
