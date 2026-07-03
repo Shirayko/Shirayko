@@ -1,12 +1,4 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Gustavo Lomba and my nickname is "Shirayko"!
 
-
-<div>
-<a href="https://github.com/Shirayko">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shirayko&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shirayko&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=IN%20DEVELOPMENT&color=GREEN&style=for-the-badge)
-
+I have intermediate English, and I'm learning Python, HTML, CSS, and JavaScript with the goal of learning a bit of front-end and back-end.
